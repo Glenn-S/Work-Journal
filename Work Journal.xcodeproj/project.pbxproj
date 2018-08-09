@@ -14,6 +14,7 @@
 		2101A4FA211BF45C00C669D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2101A4F8211BF45C00C669D8 /* LaunchScreen.storyboard */; };
 		2101A505211BF45C00C669D8 /* Work_JournalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2101A504211BF45C00C669D8 /* Work_JournalTests.swift */; };
 		2101A510211BF45C00C669D8 /* Work_JournalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2101A50F211BF45C00C669D8 /* Work_JournalUITests.swift */; };
+		2101A520211C102800C669D8 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2101A51F211C102800C669D8 /* StartViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		2101A50B211BF45C00C669D8 /* Work JournalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Work JournalUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2101A50F211BF45C00C669D8 /* Work_JournalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Work_JournalUITests.swift; sourceTree = "<group>"; };
 		2101A511211BF45C00C669D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2101A51F211C102800C669D8 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				2101A4EF211BF45900C669D8 /* AppDelegate.swift */,
 				2101A4F1211BF45900C669D8 /* ViewController.swift */,
 				2101A4F3211BF45900C669D8 /* Main.storyboard */,
+				2101A51F211C102800C669D8 /* StartViewController.swift */,
 				2101A4F6211BF45C00C669D8 /* Assets.xcassets */,
 				2101A4F8211BF45C00C669D8 /* LaunchScreen.storyboard */,
 				2101A4FB211BF45C00C669D8 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				2101A4F2211BF45900C669D8 /* ViewController.swift in Sources */,
 				2101A4F0211BF45900C669D8 /* AppDelegate.swift in Sources */,
+				2101A520211C102800C669D8 /* StartViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
